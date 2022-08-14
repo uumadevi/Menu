@@ -23,7 +23,7 @@ nav ul li {
     transition: all 0.2s linear;
 }
 nav ul li:hover {
-    background-color: pink;
+    background-color: purple;
     color:blue;
 }
 a  {
